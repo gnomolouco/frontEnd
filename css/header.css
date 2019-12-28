@@ -1,0 +1,62 @@
+.header {
+    background: url('../img/destaque.jpeg') no-repeat;
+    background-size: cover;
+    padding-top: 32px;
+}
+
+#cabecalho {
+    text-align: center;
+}
+
+.header #cabecalho #menu {
+    display: inline-block;
+    margin: 0 2px 32px 0;
+}
+
+.header #cabecalho #menu a {
+    color: white;
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background-color 0.5s;
+}
+
+.header #cabecalho #menu a:hover {
+    background-color: #48A3A6;
+}
+
+.header .jumbotron {
+    text-align: center;
+    padding: 0 0 44px 0;
+    text-transform: uppercase;
+}
+
+.header .panel-main {
+    color: white;
+    text-shadow: 4px 4px 10p black;
+}
+
+.header .jumbotron .title {
+    font-size: 3em;
+}
+
+.header .jumbotron .subtitle {
+    font-size: 2.6em;
+    color: #64ff64;
+    margin-top: 8px;
+}
+
+.header .jumbotron .panel-subscribe {
+    margin: 20px 0 0 0;
+}
+
+@media(min-width: 650px) {
+
+    .header .jumbotron {
+
+        font-size: 28px;
+    }
+}
+
