@@ -23,5 +23,4 @@ conferência e um painel falando sobre os palestrantes com fotos e descrição. 
 ![projeto-completo](https://user-images.githubusercontent.com/50017221/72849971-c49b0780-3c86-11ea-8cdf-cd95f286a639.png)
 
 
-## O Design responsivo se encontra abaixo:
-
+#### Simples, mas sempre bom a prática!
